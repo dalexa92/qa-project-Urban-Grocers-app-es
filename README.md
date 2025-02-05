@@ -23,7 +23,8 @@ Como Ejecutar el Proyecto:
 
 - Asegurarnos de estar en el entorno virtual ( .venv)
 - Ejecutar las pruebas siempre con pytest.
-- Los scripts se encuentran alojados en el create_kit_name_kit_test, si se requiere alguna modificación realizarla segun sea necesario.
+- El comando correcto para su ejecucion sería: pytest folder/archivo.py.
+- Los scripts se encuentran alojados en el archivo create_kit_name_kit_test, si se requiere alguna modificación realizarla segun sea necesario.
 
 
 Si es necesario alguna modificación por favor seguir los siguientes pasos: 
